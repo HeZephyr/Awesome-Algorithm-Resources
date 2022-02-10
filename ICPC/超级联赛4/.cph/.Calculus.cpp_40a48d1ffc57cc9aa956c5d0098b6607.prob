@@ -1,0 +1,1 @@
+{"name":"Local: Calculus","url":"d:\\workspace001\\c++_coding\\ICPC\\超级联赛4\\Calculus.cpp","tests":[{"id":1627535982999,"input":"2\n1sinx+0cosx+3x+6/sinx\n0","output":"NO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\workspace001\\c++_coding\\ICPC\\超级联赛4\\Calculus.cpp","group":"local","local":true}

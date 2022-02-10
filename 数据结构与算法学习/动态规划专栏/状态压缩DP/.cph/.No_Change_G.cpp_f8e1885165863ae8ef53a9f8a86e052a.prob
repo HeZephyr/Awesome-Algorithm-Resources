@@ -1,0 +1,1 @@
+{"name":"Local: No_Change_G","url":"d:\\workspace001\\c++_coding\\数据结构与算法学习\\动态规划专栏\\状态压缩DP\\No_Change_G.cpp","tests":[{"id":1622193568847,"input":"3 6\n12\n15\n10\n6\n3\n3\n2\n3\n7","output":"12"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\workspace001\\c++_coding\\数据结构与算法学习\\动态规划专栏\\状态压缩DP\\No_Change_G.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 树的中心","url":"d:\\workspace001\\c++_coding\\数据结构与算法学习\\动态规划专栏\\树形PD专栏\\树的中心.cpp","tests":[{"id":1621949325531,"input":"5 \n2 1 1 \n3 2 1 \n4 3 1 \n5 1 1","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\workspace001\\c++_coding\\数据结构与算法学习\\动态规划专栏\\树形PD专栏\\树的中心.cpp","group":"local","local":true}

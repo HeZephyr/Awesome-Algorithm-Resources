@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "algorithm": "cpp",
+        "queue": "cpp",
+        "set": "cpp",
+        "vector": "cpp",
+        "utility": "cpp"
+    }
+}

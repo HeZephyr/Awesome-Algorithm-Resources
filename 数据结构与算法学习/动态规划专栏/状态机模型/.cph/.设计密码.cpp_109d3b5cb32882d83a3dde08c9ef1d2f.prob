@@ -1,0 +1,1 @@
+{"name":"Local: 设计密码","url":"d:\\workspace001\\c++_coding\\数据结构与算法学习\\动态规划专栏\\状态机模型\\设计密码.cpp","tests":[{"id":1622037556404,"input":"2\na","output":"625"},{"id":1622037568317,"input":"4\ncbc","output":"456924"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\workspace001\\c++_coding\\数据结构与算法学习\\动态规划专栏\\状态机模型\\设计密码.cpp","group":"local","local":true}

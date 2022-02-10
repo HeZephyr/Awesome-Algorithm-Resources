@@ -1,0 +1,1 @@
+{"name":"Local: result","url":"d:\\workspace001\\c++_coding\\闲杂竞赛\\初赛3\\result.cpp","tests":[{"id":1628321732891,"input":"4\n2\n3\n4\n5","output":"2\n2\n4\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\workspace001\\c++_coding\\闲杂竞赛\\初赛3\\result.cpp","group":"local","local":true}

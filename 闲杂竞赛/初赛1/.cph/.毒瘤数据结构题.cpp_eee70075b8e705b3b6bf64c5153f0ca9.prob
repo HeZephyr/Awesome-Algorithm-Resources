@@ -1,0 +1,1 @@
+{"name":"Local: 毒瘤数据结构题","url":"d:\\workspace001\\c++_coding\\闲杂竞赛\\初赛1\\毒瘤数据结构题.cpp","tests":[{"id":1627717073738,"input":"10\n2 4\n2 3\n1 1\n2 1\n1 1\n2 2\n1 3\n2 10\n1 2\n2 5","output":"1\n1\n2\n3\n2\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\workspace001\\c++_coding\\闲杂竞赛\\初赛1\\毒瘤数据结构题.cpp","group":"local","local":true}

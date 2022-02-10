@@ -1,0 +1,1 @@
+{"name":"Local: 大盗阿福","url":"d:\\workspace001\\c++_coding\\数据结构与算法学习\\动态规划专栏\\状态机模型\\大盗阿福.cpp","tests":[{"id":1622031006488,"input":"2\n3\n1 8 2\n4\n10 7 6 14","output":"8\n24"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\workspace001\\c++_coding\\数据结构与算法学习\\动态规划专栏\\状态机模型\\大盗阿福.cpp","group":"local","local":true}

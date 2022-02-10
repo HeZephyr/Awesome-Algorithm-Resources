@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "xstddef": "cpp",
+        "queue": "cpp",
+        "vector": "cpp"
+    }
+}

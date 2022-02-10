@@ -1,0 +1,1 @@
+{"name":"Local: 数字游戏","url":"d:\\workspace001\\c++_coding\\闲杂竞赛\\初赛3\\数字游戏.cpp","tests":[{"id":1628317161332,"input":"2\n3 1 1 1\n2 3 1 1","output":"yes\nno"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\workspace001\\c++_coding\\闲杂竞赛\\初赛3\\数字游戏.cpp","group":"local","local":true}

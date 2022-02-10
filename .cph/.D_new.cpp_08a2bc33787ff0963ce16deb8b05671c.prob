@@ -1,0 +1,1 @@
+{"name":"Local: D_new","url":"d:\\workspace001\\c++_coding\\D_new.cpp","tests":[{"id":1629304930507,"input":"12\n1052\n8888\n6\n75\n128\n1\n301\n12048\n1504\n6656\n1000000000\n687194767","output":"2\n3\n1\n3\n0\n0\n2\n1\n3\n4\n9\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\workspace001\\c++_coding\\D_new.cpp","group":"local","local":true}

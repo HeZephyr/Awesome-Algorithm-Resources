@@ -1,0 +1,1 @@
+{"name":"Local: E","url":"d:\\workspace001\\c++_coding\\codeforces\\#702div3\\E.cpp","tests":[{"id":1623042077226,"input":"2\n4\n1 2 4 3\n5\n1 1 1 1 1","output":"3\n2 3 4 \n5\n1 2 3 4 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\workspace001\\c++_coding\\codeforces\\#702div3\\E.cpp","group":"local","local":true}
